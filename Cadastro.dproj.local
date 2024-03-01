@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/07/22 11:11:04.000.830,=C:\Users\Junior\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/02/29 15:45:27.000.742,=C:\Users\Junior\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/02/29 15:46:42.000.283,=C:\Users\Junior\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/02/29 15:58:55.000.798,=C:\Users\Junior\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/02/29 15:59:13.000.668,C:\Users\Junior\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Junior\Documents\Embarcadero\Studio\Projects\Tela.dproj</Transaction>
+    <Transaction>2024/02/29 15:59:21.000.862,C:\Users\Junior\Documents\Embarcadero\Studio\Projects\Tela.dproj=C:\Users\Junior\Documents\Embarcadero\Studio\Projects\Cadastro.dproj</Transaction>
+    <Transaction>2024/02/29 15:59:40.000.040,C:\Users\Junior\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Junior\Documents\Sistema\Projeto.pas</Transaction>
+    <Transaction>2024/02/29 15:59:40.000.040,C:\Users\Junior\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Junior\Documents\Sistema\Projeto.dfm</Transaction>
+    <Transaction>2024/02/29 15:59:43.000.391,C:\Users\Junior\Documents\Embarcadero\Studio\Projects\Cadastro.dproj=C:\Users\Junior\Documents\Sistema\Cadastro.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
